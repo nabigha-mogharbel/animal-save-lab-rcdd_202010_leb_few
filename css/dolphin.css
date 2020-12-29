@@ -13,7 +13,7 @@ html {
 }
 
 #dolphin {
-  position: absolute;
+  position: relative;
   top: 400px;
   right: 0;
 }
