@@ -19,4 +19,8 @@ html {
 }
 
 /* Write your solution here */
-
+@media screen and (min-width: 1200px){
+  #dolphin{
+    margin-right: 40%;
+  }
+}
