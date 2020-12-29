@@ -13,7 +13,7 @@ html {
 }
 
 #dolphin {
-  position: relative;
+  position: absolute;
   top: 400px;
   right: 0;
 }
@@ -21,6 +21,6 @@ html {
 /* Write your solution here */
 @media screen and (min-width: 1200px){
   #dolphin{
-    margin-right: 30%;
+    margin-right: 40%;
   }
 }
